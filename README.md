@@ -67,11 +67,5 @@ pytest
 
 - **Dunder Methods:** Uses dunder methods to make custom data structures comparable for equality, and to evaluate their truthiness.
 
-## Contributing
 
-Contributions to the Pythonisms project are welcome. Please ensure to write tests for new features and run existing tests before submitting a pull request.
 
-## License
-
-[MIT License](LICENSE.md) - see the LICENSE file for details.
-```
